@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SuperHunter/static/css/main.6b56318e.css",
+    "main.js": "/SuperHunter/static/js/main.c3e9ef6f.js",
+    "static/js/787.c5381db8.chunk.js": "/SuperHunter/static/js/787.c5381db8.chunk.js",
+    "index.html": "/SuperHunter/index.html",
+    "main.6b56318e.css.map": "/SuperHunter/static/css/main.6b56318e.css.map",
+    "main.c3e9ef6f.js.map": "/SuperHunter/static/js/main.c3e9ef6f.js.map",
+    "787.c5381db8.chunk.js.map": "/SuperHunter/static/js/787.c5381db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b56318e.css",
+    "static/js/main.c3e9ef6f.js"
+  ]
+}

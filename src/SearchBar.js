@@ -4,6 +4,7 @@ function SearchBar(props) {
 const {handleChange, searchText} = props;
 
   return (
+   
     <div>
       <input
         id="search-bar"

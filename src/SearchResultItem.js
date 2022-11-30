@@ -2,8 +2,6 @@ import React from 'react';
 
 function SearchResultItem(props) {
   const {data} = props;
-
-  console.log('data', data);
   return (
     <div className="search-result">
       <div className="left">
